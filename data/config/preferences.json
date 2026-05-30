@@ -1,0 +1,22 @@
+{
+  "note": "ترجیحات و تنظیمات حسن. زنده است.",
+  "updated_at": "2026-05-30",
+  "timezone": "Asia/Tehran",
+  "calendar_primary": "hasanfadavi2006@gmail.com",
+  "calendar_family": "family13112466337746067952@group.calendar.google.com",
+  "routine": {
+    "morning_review_time": "09:00",
+    "arrive_office": "08:00–09:00",
+    "interview_window": "از ساعت ۱۰ به بعد",
+    "evening_update": "حسن شب‌ها موقع رفتن (یا آخر شب) گزارش می‌دهد",
+    "work_days": ["شنبه", "یکشنبه", "دوشنبه", "سه‌شنبه", "چهارشنبه"],
+    "off_days": ["پنجشنبه", "جمعه"]
+  },
+  "recurring_calendar_events": [
+    { "summary": "🗓️ مرور برنامه‌ی روز", "gcal_id": "7cn0fk2dfpaddpbt5aao17v8j0", "when": "۹:۰۰ روزهای کاری (شنبه تا چهارشنبه)" },
+    { "summary": "👩 رسیدگی به مادر", "gcal_id": "6m2fk0sl67jtlq9ihrbdhrfal4", "when": "۱۹:۰۰ هر روز" }
+  ],
+  "expecting_from_hasan": [
+    "فایل گزارش لیزر زنان برای طراحی UI (#2026-05-30-016)"
+  ]
+}
