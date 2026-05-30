@@ -309,5 +309,12 @@
     "نیروی مستعفی: با حاج آقا صحبت کردی یا استخاره گرفتی؟ نتیجه؟",
     "فیلم FPV را گرفتی و برای رابط فرستادی؟",
     "از این کارهای امروز، کدام‌ها انجام شد و کدام ماند؟"
+  ],
+
+  "calendar_events": [
+    { "item": "2026-05-30-022", "gcal_id": "t0tcpp5olv31mflglq0g0ro7k0", "when": "2026-05-31T09:00 Asia/Tehran", "summary": "واریز یوان" },
+    { "item": "2026-05-30-005", "gcal_id": "eik5430cf4rdj7pndot9eu0lag", "when": "2026-05-31T10:00 Asia/Tehran", "summary": "مصاحبه‌ی حسابدار (ساعت تأیید شود)" },
+    { "item": "2026-05-30-004", "gcal_id": "3r4hha6pm46mfhsld55aku6cn0", "when": "2026-06-01T09:00 Asia/Tehran", "summary": "اعلام شرایط به کاندیدا" },
+    { "item": "2026-05-30-016", "gcal_id": "ufr81mcf811alk3egi3ed7sp6k", "when": "2026-06-03T17:00 Asia/Tehran", "summary": "ددلاین لیزر زنان" }
   ]
 }
